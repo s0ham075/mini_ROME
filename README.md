@@ -12,7 +12,7 @@ It lets you visualize the effects on **Residual**, **MLP**, and **Attention** ac
 - **Residual States Heatmap** → Impact of restoring residual activations
 ![Residual States Heatmap](images/resid_result.png)
 - **MLP States Heatmap** → Impact of restoring MLP activations 
-![MLP States Heatmap](iamges/mlp_result.png) 
+![MLP States Heatmap](images/mlp_result.png) 
 - **Attention States Heatmap** → Impact of restoring attention activations
 ![Attention States Heatmap](images/attn_result.png)
 Each heatmap shows how restoring activations at certain layers/tokens changes model prediction probabilities.
